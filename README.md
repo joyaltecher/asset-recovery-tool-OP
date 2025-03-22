@@ -24,7 +24,7 @@ curl -sSL https://raw.githubusercontent.com/zunxbt/installation/main/node.sh | b
 ```
 2. **Clone this repository**
 ```bash
-rm -rf asset-recovery-tool && git clone https://github.com/joyaltecher/asset-recovery-tool-OP.git && cd asset-recovery-tool
+rm -rf asset-recovery-tool-OP && git clone https://github.com/joyaltecher/asset-recovery-tool-OP.git && cd asset-recovery-tool-OP
 ```
 3. **Install dependencies**
 ```bash
